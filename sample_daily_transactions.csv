@@ -1,0 +1,11 @@
+tx_id,tx_date,category,payment_channel,description,amount_myr
+1001,2026-11-18,STOCK,CASH,"Tepung, gula, coklat & bahan waffle",85.0
+1002,2026-11-18,OPEX,QR_EWALLET,Gas memasak & pembungkus kertas,32.5
+1003,2026-11-18,SALES,CASH,Jualan tunai gerai depan rumah,145.0
+1004,2026-11-18,SALES,QR_EWALLET,Jualan DuitNow QR,110.0
+1005,2026-11-18,SALES,DIGITAL_WALLET,Penyelesaian dompet digital,45.0
+1006,2026-11-19,STOCK,QR_EWALLET,Tambah stok topping & minuman,60.0
+1007,2026-11-19,OPEX,CASH,Ais batu & elektrik harian,18.0
+1008,2026-11-19,SALES,CASH,Jualan tunai petang,160.0
+1009,2026-11-19,SALES,QR_EWALLET,Jualan DuitNow QR,135.0
+1010,2026-11-19,SALES,DIGITAL_WALLET,Penyelesaian dompet digital,50.0
